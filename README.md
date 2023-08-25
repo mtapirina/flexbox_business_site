@@ -22,3 +22,6 @@ Create a flexible display of company employees.
 
 Your page should also use custom styles for other properties, such as colors, fonts, and other layout properties such as borders and padding.
 
+Link to my solution:
+OK PISO company home page.
+https://mtapirina.github.io/flexbox_business_site/
