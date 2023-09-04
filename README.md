@@ -25,3 +25,9 @@ Your page should also use custom styles for other properties, such as colors, fo
 Link to my solution:
 OK PISO company home page.
 https://mtapirina.github.io/flexbox_business_site/
+
+![ok piso](https://github.com/mtapirina/flexbox_business_site/assets/116927372/2aa68a18-b065-4f9e-8ca7-c3b52477928f)
+
+![ok-piso-productos](https://github.com/mtapirina/flexbox_business_site/assets/116927372/3024d43f-f40f-46ba-bf29-a74811423475)
+
+
